@@ -1,0 +1,16 @@
+.postCont{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  width: 100%;
+}
+
+.input{
+margin: 20px;
+}
+
+.text{
+  display: flex;
+}
